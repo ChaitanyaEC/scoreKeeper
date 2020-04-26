@@ -1,0 +1,29 @@
+.winner{
+	color : green;
+}
+
+#p1,#p2{
+  background-color: #008CBA; /* Green */
+  border:5px solid orange;
+  color: white;
+  padding: 7px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px
+}
+
+#reset{
+  background-color: #f44336; /* Green */
+  border: 15px solid orange;
+  color: white;
+  padding: 5px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px
+}
+
+body{
+	text-align: center;
+}
